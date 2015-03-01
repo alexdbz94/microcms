@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <link href="microcms.css" rel="stylesheet" />
-    <title>MicroCMS - Articles</title>
+    <title>MicroCMS</title>
 </head>
 <body>
     <header>
