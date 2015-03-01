@@ -12,7 +12,7 @@ $articles = $bdd->query('select * from t_article order by art_id desc');
 </head>
 <body>
     <header>
-        <h1>MicroCMS</h1>
+        <h1>MicroCMS - Afficher les articles</h1>
     </header>
     <?php foreach ($articles as $article): ?>
         <article>
