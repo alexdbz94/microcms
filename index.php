@@ -8,7 +8,7 @@ $articles = $bdd->query('select * from t_article order by art_id desc');
 <head>
     <meta charset="utf-8" />
     <link href="microcms.css" rel="stylesheet" />
-    <title>MicroCMS - Home</title>
+    <title>MicroCMS - Bienvenue </title>
 </head>
 <body>
     <header>
