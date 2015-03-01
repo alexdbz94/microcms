@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8" />
     <link href="microcms.css" rel="stylesheet" />
-    <title>MicroCMS - Home</title>
+    <title>MicroCMS - Articles</title>
 </head>
 <body>
     <header>
-        <h1>MicroCMS</h1>
+        <h1>MicroCMS - Articles</h1>
     </header>
     <?php foreach ($articles as $article): ?>
     <article>
